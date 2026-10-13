@@ -1,0 +1,6 @@
+{
+  "name": "UPSC CSE Booklist & Study Navigator",
+  "description": "Comprehensive database of official books, NCERTs, standard textbooks, toppers' chapter guides, and revision tracker for the UPSC Civil Services Examination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
