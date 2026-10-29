@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/open-source-for-UPSC-material/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
